@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(54, 54, 85);
+}
+header{
+    background-color: rgb(37, 37, 48);
+}
+
+main{
+    margin: 30px;
+    background-color: rgb(54, 54, 85);
+    display: flex;
+    
+}
+
+.title{
+    font-size: 20px;
+    color: white;
+}
+
+/* .imagen-section{
+    width: 400px;
+    background-color: tomato;
+} */
+
+.contorno-img{
+    background-color: rgb(74, 67, 94);
+    height: 100%;
+    margin: 10px;
+    padding: 10px;
+}
+
+.author , .year{
+    color: white;
+}
+
