@@ -20,8 +20,8 @@
 </header>
 
 <main>
-  <div class="container">
-    <div class="row cols-5">
+  <!-- <div class="container-fluid"> -->
+    <!-- <div class="row col-2"> -->
      <?php
          require_once __DIR__ . "../database/database.php";
          foreach($database as $item){ ?>
@@ -34,8 +34,8 @@
         <?php    
          }
         ?>
-      </div>  
-  </div>   
+      <!-- </div>  
+  </div>    -->
 
 </main>
     
